@@ -202,9 +202,18 @@ body {
     font-size: 14px;
   }
 
+  .head {
+    text-align: center;
+    word-spacing: 5px;
+    font-size: 18px;
+  }
+
   .buttonsDisplay {
 
     font-size: 16px;
+    width: 300px;
+    align-self: center;
+    margin-left: 50px;
   }
 
   .list-item {
@@ -228,6 +237,7 @@ body {
 
   .buttonsDisplay {
     font-size: 18px;
+    width: 500px;
   }
 
   .list-item {
